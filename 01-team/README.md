@@ -4,14 +4,14 @@
 
 | Role               | Name   | Email   |
 | ------------------ | ------ | ------- |
-| Software Architect | [Mohammed] | [Email] |
-| Developer          | [Isaa] | [Email] |
-| Developer          | [Saah] | [Email] |
-| Developer          | [Aya] | [Email] |
-| Developer          | [Mahmood] | [Email] |
-| Developer          | [Motaz] | [Email] |
-| Developer          | [Mays] | maynab4@gmail.com |
-| Developer          | [Fadya] |[] |
+| Software Architect | Mohammed | Email] |
+| Developer          | Isaa | [Email] |
+| Developer          | Saah | [Email] |
+| Developer          | Aya | [Email] |
+| Developer          | Mahmood | [Email] |
+| Developer          | Motaz | [Email] |
+| Developer          | Mays | maynab4@gmail.com |
+| Developer          | Fadya |[] |
 
 ## Responsibilities
 
