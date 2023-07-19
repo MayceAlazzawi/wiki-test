@@ -1,25 +1,20 @@
 # [Project] Team Structure
 
-Please specify following team details:
-
-**Total Team Size**: [X]
+**Total Team Size**: [8]
 
 | Role               | Name   | Email   |
 | ------------------ | ------ | ------- |
-| Delivery Manager   | [Name] | [Email] |
-| Software Architect | [Name] | [Email] |
-| Product Owner      | [Name] | [Email] |
-| Scrum Master       | [Name] | [Email] |
-| Developer          | [Name] | [Email] |
-| Developer          | [Name] | [Email] |
-| Tester             | [Name] | [Email] |
+| Software Architect | [Mohammed] | [Email] |
+| Developer          | [Isaa] | [Email] |
+| Developer          | [Saah] | [Email] |
+| Developer          | [Aya] | [Email] |
+| Developer          | [Mahmood] | [Email] |
+| Developer          | [Motaz] | [Email] |
+| Developer          | [Mays] | maynab4@gmail.com |
+| Developer          | [Fadya] |[] |
 
 ## Responsibilities
 
-### Delivery Manager
-
-- [ ] Owns end-to-end delivery of the project
-- [ ] Owns project delivery plan
 
 ### Software Architect
 
@@ -28,14 +23,11 @@ Please specify following team details:
 - [ ] New developer onboarding
 - [ ] Sets code review process
 
-### Product Owner
+### Developer
+- [ ] Owns technical quality of the delivery
+- [ ] Gives code eciews to othe patnes in the team
 
-- [ ] Works with customer to define product backlog in JIRA or related
-- [ ] Acts as a point of contact for the team for any business requirement clarifications
 
-### Scrum Master
-
-- [ ] Facilitate scrum meetings
 
 
 
