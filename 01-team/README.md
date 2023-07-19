@@ -1,4 +1,4 @@
-# [Project] Team Structure
+# Social-network-nextjs Team Structure
 
 **Total Team Size**: [8]
 
