@@ -2,7 +2,7 @@
 
 ## Work Hours
 
-Team work from **9am** to **12pm** in [IST time].
+Team work from **9am** to **12pm** in **IST** time.
 
 ## Communication
 
