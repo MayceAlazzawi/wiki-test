@@ -2,17 +2,18 @@
 
 ## Work Hours
 
-Team work from [X] to [Y] in [Timezone].
+Team work from **9am** to **12pm** in [IST time].
 
 ## Communication
 
-Team using [Tool] for communication. We are available on [Channel].
+Team using **Discord** for communication. We are available on [https://discord.com/channels/1127166325228314747/1127166325723254804].
 
 ## Important Meetings
 
 Below is the table of important events with their timing.
 
-| Meeting       | Time                     | Required       |
-| ------------- | ------------------------ | -------------- |
-| [Daily Scrum] | [10:00am to 10:30am IST] | [Yes/Optional] |
+| Meeting                 | Time                            | Required       |
+| ----------------------- | ------------------------------- | -------------- |
+| Weekly meeting          |  8:30pm to 9:30pm IST           |      Yes       | 
+| Daily check-in messages |  Before 5:00pm on Discord       |      Yes       | 
 
